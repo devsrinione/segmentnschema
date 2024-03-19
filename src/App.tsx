@@ -75,7 +75,7 @@ function App() {
   return (
     <div className="flex flex-1 flex-col justify-center items-center">
       <Sheet>
-        <SheetTrigger>Open</SheetTrigger>
+        <SheetTrigger>Save Segment</SheetTrigger>
         <SheetContent side={"bottom"}>
           <SheetHeader>
             <SheetTitle>New Segment</SheetTitle>
